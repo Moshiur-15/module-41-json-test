@@ -1,0 +1,33 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 8500,
+      "color": "Black"
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 5500,
+      "color": "Silver"
+    },
+    {
+      "brand": "Casio",
+      "model": "G-Shock",
+      "price": 120,
+      "color": "Red"
+    },
+    {
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 3200,
+      "color": "Blue"
+    },
+    {
+      "brand": "Seiko",
+      "model": "Presage",
+      "price": 450,
+      "color": "Green"
+    }
+  ]
+  
